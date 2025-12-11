@@ -1,7 +1,6 @@
-torch                # will use conda-pytorch install; keep here for pip fallback
-opencv-python
-matplotlib
-pandas
+flask
 ultralytics
-requests
-tqdm
+opencv-python
+numpy
+pandas
+werkzeug

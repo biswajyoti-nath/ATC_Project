@@ -1,1 +1,0 @@
-sam2.sam2_image_predictor
